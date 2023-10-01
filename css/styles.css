@@ -244,10 +244,11 @@ button {
 .footer {
   background-color: var(--color-slogan);
   margin: 0;
+  padding-top: 60px;
 }
 
 .footer-menu {
-  padding: 0 0 60px 215px;
+  padding: 20px 0 60px 215px;
   margin: 0;
 }
 
