@@ -85,6 +85,13 @@ button {
   line-height: 1.17;
 }
 
+.header-link-active {
+  color: var(--color-link);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.17;
+}
+
 .header-link:hover {
   color: var(--color-link);
 }
